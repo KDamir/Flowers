@@ -1,2 +1,1 @@
-# Flowers
-Flowers eCommerce project
+# Flowers eCommerce project. Written using BroadLeaf framework http://www.broadleafcommerce.org
